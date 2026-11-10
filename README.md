@@ -4,7 +4,7 @@ This repository contains the source for my project website.
 
 ## About
 
-A website for the "Boba Bash" event going to happen in delhi. This README contains images for preview and gifs for hero section.
+A website for the "Embassy" event going to happen in delhi. This README contains images for preview and gifs for hero section.
 
 ##the images for preview are here--
 <img width="338" height="480" alt="hexarover" src="https://github.com/user-attachments/assets/16d6369c-3b79-4525-ac0f-ffbef9378750" />
