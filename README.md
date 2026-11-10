@@ -1,6 +1,6 @@
-# Boba Bash Website
+# personel Website
 
-This repository contains the source for the Boba Bash website.
+This repository contains the source for my project website.
 
 ## About
 
